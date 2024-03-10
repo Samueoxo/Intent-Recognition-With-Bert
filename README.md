@@ -1,7 +1,7 @@
 # Intent-Recognition-With-Bert
 Recognising  intent (IR) from text is very useful these days. Usually, you get a short text (sentence
 or two) and have to classify it into one (or multiple) categories.
-. This Project is a pre-trained NLP model that might solve the (technical)
+- This Project is a pre-trained NLP model that might solve the (technical)
 support problem that many business owners have. I mean, BERT is freaky good! It is really easy to
 use, too!
 # Data
